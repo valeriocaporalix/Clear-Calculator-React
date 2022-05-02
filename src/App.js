@@ -119,7 +119,7 @@ export default class Calculator extends React.Component {
     return(
       <div id="app">
         <br></br>
-        <h1 id="title">Cyndoriil's Javascript Calculator</h1>
+        <h1 id="title">Valerio Caporali's Javascript Calculator</h1>
         <h1 id="formula">Formula: {this.state.formula}</h1>
       <div className="container">
         <div className="display" id="display">
