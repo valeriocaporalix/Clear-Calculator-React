@@ -16,6 +16,6 @@ Appearance:
 
 No package, this CSS file was created only for this App. Although responsive it is a basic file.
 
-**Appearance of the App**
+**Appearance of the Component**
 
 ![App Screenshot](./Screenshot.png "Screenshot")
