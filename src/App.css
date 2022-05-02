@@ -1,0 +1,106 @@
+#root {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAYvEDvuU16aRDXfqM8Eh1-8SlsEC_bQOkc5hYVPE_wJfnrroBhg1YO6UErG0Lnbwmn4w&usqp=CAU);
+  background-repeat: repeat;
+  height: auto;
+}
+
+button {
+  width: 60px;
+  height: 60px;
+  margin: 5px 15px 5px 6px;
+  margin-top: 30px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px black;
+}
+
+.container {
+  margin: auto;
+  background-color: #dedede;
+  margin-top: 80px;
+  margin-bottom: 150px;
+  width: 354px;
+  height: 600px;
+  border: solid;
+  border-color: gray;
+  border-radius: 15px;
+  box-shadow: 10px 10px 5px #bfbfbf;
+  overflow: auto;
+}
+
+.display {
+  background-color: darkgreen;
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  width: 85%;
+  height: 80px;
+  text-align: right;
+  font-size: 35px;
+  border: solid;
+  border-size: 5px;
+  border-radius: 8px;
+  font-weight: bold;
+  font-family: monospace;
+}
+
+#title {
+  font-size: 40px;
+  text-align: center;
+  font-family: monospace;
+}
+
+#formula {
+  font-size: 20px;
+  text-align: center;
+  margin-top: 20px;
+  font-family: cursive;
+}
+
+/* Customized buttons via ID */
+
+#clear {
+  background-color: #eb4444;
+  font-weight: bold;
+  color: black;
+  margin-left: 13px;
+}
+
+#equals {
+  display: block;
+  margin-left: 10%;
+  margin-right: 10%;
+  background-color: green;
+  font-weight: bold;
+  width: 80%;
+  font-size: 30px;
+  color: black;
+}
+
+#one,
+#two,
+#three,
+#four,
+#five,
+#six,
+#seven,
+#eight,
+#nine,
+#zero,
+#decimal {
+  margin-left: 13px;
+  background-color: #fafafa;
+  font-weight: bold;
+  font-family: monospace;
+  color: black;
+}
+
+#divide,
+#add,
+#subtract,
+#multiply {
+  margin-left: 13px;
+  background-color: #a1a7b5;
+  font-weight: bold;
+  font-family: monospace;
+  color: black;
+}
